@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **jasonjaesinpark@gmail.com**
 
-- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1-LNpB62gil2_YLmZDs-iEHs3_fBObNi-/view?usp=drive_link)
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1709ZIAT17HccB2KKFgBH02zsFHf_SJDG/view?usp=drive_link)
 
 - ⚡ Fun fact **If you are having a hard day, look up in the sky and make a wish. There are million shooting stars occurring every day around the world - even during the day!**
 
