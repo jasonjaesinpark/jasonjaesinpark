@@ -4,11 +4,11 @@
 
 - 🔭 I’m currently working on [**Database Modeling for Ben's Pizzeria**](https://github.com/jasonjaesinpark/SQL-pizzeria)
 
-- 🌱 I’m currently learning **Python and data engineering**
+- 🌱 I’m currently learning **Python, Machine Learning, and Data Engineering**
 
 - 👨‍💻 All of my projects are available at [**Data Portfolio**](https://github.com/jasonjaesinpark/jasonjaesinpark.github.io)
 
-- 💬 Ask me about **Statistics, Power BI, and Excel**
+- 💬 Ask me about **Statistics, Power BI, and Advanced Excel**
 
 - 📫 How to reach me **jasonjaesinpark@gmail.com**
 
